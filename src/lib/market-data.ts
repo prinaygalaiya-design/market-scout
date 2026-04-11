@@ -1,4 +1,5 @@
-import yahooFinance from 'yahoo-finance2';
+import YahooFinance from 'yahoo-finance2';
+const yahooFinance = new YahooFinance();
 
 // Known 3-letter ISO 4217 currency codes — used for forex pair detection.
 // Deliberately kept as a small set of the most-traded majors/crosses so that
