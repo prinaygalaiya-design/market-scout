@@ -1,8 +1,1 @@
-{
-  "_crons_disabled": [
-    { "path": "/api/paper-trades/evaluate", "schedule": "0 22 * * 1-5" },
-    { "path": "/api/cron",                  "schedule": "0 23 * * 1-5" },
-    { "path": "/api/outcomes",              "schedule": "0 1 * * 2-6" },
-    { "path": "/api/meta-analysis",         "schedule": "0 2 * * 1"   }
-  ]
-}
+{}
